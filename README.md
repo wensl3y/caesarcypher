@@ -1,5 +1,5 @@
 # caesarcypher
-Шифр Цезаря. Оригинальный код: http://inventwithpython.com/hacking/chapter6.html
+Обновленный шифр Цезаря. Оригинальный код: http://inventwithpython.com/hacking/chapter6.html
 ### Дополнения
 - Добавлена возможность вводить своё сообщение.
 - Поддержка кириллицы.
